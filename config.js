@@ -56,7 +56,7 @@ global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fgsc = 'https://instagram.com/nab.gains' 
 global.fgyt = 'https://youtube.com/@nabgains'
 global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
+global.fglog = 'https://yt3.ggpht.com/yfM790w8K-_P5CoE4eoDOREAOGKcqRI77B_osD4G3KBDqCfGNbCOkSoEBB2qnpORkUSa9Uif20M=s48-c-k-c0x00ffffff-no-rj' 
 
 
 global.wait = '*🐦 _Waiting Bro Uploading by 🐦 𝑵𝑨𝑩𝒘𝒐𝒓𝒌𝒔 🐦..._*'
